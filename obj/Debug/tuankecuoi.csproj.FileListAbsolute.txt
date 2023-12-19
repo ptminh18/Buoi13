@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\bin\Debug\tuankecuoi.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\bin\Debug\tuankecuoi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\bin\Debug\tuankecuoi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.exe
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\tuankecuoi\tuankecuoi\obj\Debug\tuankecuoi.Form2.resources
